@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://shahchies.profesor-p.com/sitemap.xml
